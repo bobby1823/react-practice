@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is going to be a react project where we create react app from terminal scratch",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./",
     "test": "jest"
   },
   "repository": {
@@ -26,5 +28,8 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
-  }
+  },
+  "browserslist": [
+    "last 10 versions"
+  ]
 }
