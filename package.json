@@ -1,0 +1,30 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "This is going to be a react project where we create react app from terminal scratch",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobby1823/react-practice.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "parcel"
+  ],
+  "author": "Sayanta Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobby1823/react-practice/issues"
+  },
+  "homepage": "https://github.com/bobby1823/react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
